@@ -1,0 +1,33 @@
+Question 1:
+True or False. The two functions f and g defined by
+f(x) = 3x + 3 for x real and g(t) = 3t + 3 for t real and positive are equal?
+
+Question 2
+If functions f and g have domains Df and Dg respectively, then the domain of f / g is given by
+(A) the union of Df and Dg
+(B) the intersection of Df and Dg
+(C) the intersection of Df and Dg without the zeros of function g
+(D) None of the above
+
+Question 3
+True or False. The graph of f(x) and that of f(x + 2) are the same
+
+Question 4
+Let the closed interval [a , b] be the domain of function f. The domain of f(x - 3) is given by
+(A) the open interval (a , b)
+(B) the closed interval [a , b]
+(C) the closed interval [a - 3 , b - 3]
+(D) the closed interval [a + 3 , b + 3]
+
+Question 5
+Let the interval (a , +infinity) be the range of function f. The range of f(x) - 4 is given by
+(A) the interval (a - 4 , +infinity)
+(B) the interval (a + 4, +infinity)
+(C) the interval (a, +infinity)
+(C) None of the above
+
+Question 6
+True or False. The equation y = | x | , with y >= 0, represents y as a function of x.
+
+Question 7
+True or False. The equation x = | y | , with x >= 0, represents y as a function of x.

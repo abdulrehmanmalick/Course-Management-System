@@ -1,0 +1,30 @@
+Hello Students. This is your Mid-Term Paper
+Rules : 
+        No Calculators Allowed.
+        Sharing is NOT Allowed.
+        Anyone caught cheating will be given F grade.
+        You have 1 hour 30 minutes to complete this paper. Extra Time Will Not Be Given.
+        Extra Sheets Wont be Provided.
+
+Question 1
+Find the domain of function f(x)=x−1/√4−x2
+
+Question 2
+Find the range of function f(x)=x−12−3x
+
+Question 3
+Find the inverse of function f(x)=ln(2x−3)+2
+
+Question 4
+Find the derivative of the following functions and do not simplify the final answer.
+
+a) f(x)=ex−1+ln(3x−1)+sin(2x+1)
+
+b) g(x)=(2x−1)2(tan(x)−1)
+
+Question 5
+Find the absolute maximum and minimum of the function f(x)=x4−x3 on the interval [0,5]
+
+Question 6
+a) Graph y=ex−1 and y=x in the same system of coordinates and then show that the two graphs are tangent at the point (1,1) and that ex−1≥x
+b) Use the result obtained in part a) to determine the concavity of the function f(x)=x36−ex−1 and inflection points if any.
